@@ -1,6 +1,6 @@
-# Reddit and Twitter Conversation Data Scraping using Selenium & Colaboratory
+# Reddit Conversation Data Scraping using BeautifulSoup & Colaboratory
 
-Simple tools to scrape both Reddit and Twitter while maintaining all of their contextual data. Utilizing Colaboratory & Google Drive both to save computational resources & space, easily integrated for further usage such as machine learning, data analyzing, etc.
+Simple tools to scrape Reddit while maintaining all of their contextual data, such as the convrsational tree, vote count, subreddit, username, etc. Utilizing Colaboratory & Google Drive both to save computational resources & space, easily integrated for further usage such as machine learning, data analyzing, etc.
 
 Complete explanation can be found through the notebook. Meanwhile detailed explanation is provided in the [LearningDollars blog](https://blog.learningdollars.com/?p=2185).
 
